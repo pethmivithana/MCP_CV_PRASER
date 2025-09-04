@@ -12,7 +12,7 @@ export function makeRestApp() {
   
   // Always enable CORS for development
   const corsOptions = {
-    origin: origins.length > 0 ? origins : ["http://localhost:3000", "http://localhost:3001", "http://127.0.0.1:3000"],
+    origin: origins.length > 0 ? origins : ["https://mcp-cv-praser-j81a.vercel.app/"],
     allowedHeaders: ["Content-Type", "Mcp-Session-Id"],
     exposedHeaders: ["Mcp-Session-Id"],
     credentials: false,
