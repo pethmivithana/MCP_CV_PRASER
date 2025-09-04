@@ -1,0 +1,45 @@
+{
+  "name": "Pethmi Vithana",
+  "email": "you@example.com",
+  "summary": "Software Engineer with a focus on full-stack web, API design, and developer experience.",
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Acme Corp",
+      "period": "Jan 2023 - Present",
+      "responsibilities": [
+        "Designed and implemented REST and MCP-based integrations",
+        "Built TypeScript services with strong typing and tests"
+      ],
+      "tech": [
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "MCP"
+      ]
+    },
+    {
+      "role": "Frontend Developer",
+      "company": "Example Labs",
+      "period": "Jun 2021 - Dec 2022",
+      "responsibilities": [
+        "Developed React components and data fetching layers",
+        "Collaborated with designers on accessible UI"
+      ],
+      "tech": [
+        "React",
+        "Next.js",
+        "TailwindCSS"
+      ]
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "MCP",
+    "Nodemailer",
+    "React",
+    "Next.js"
+  ]
+}
