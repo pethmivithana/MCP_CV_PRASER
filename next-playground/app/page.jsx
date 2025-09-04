@@ -2,7 +2,7 @@
 import { useState } from "react"
 import './globals.css'
 
-const SERVER = process.env.NEXT_PUBLIC_SERVER_URL || "http://localhost:8787"
+const SERVER = process.env.NEXT_PUBLIC_SERVER_URL || "https://mcp-cv-praser-3.onrender.com"
 
 export default function Page() {
   const [question, setQuestion] = useState("")
